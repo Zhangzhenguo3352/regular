@@ -1,0 +1,20 @@
+{
+  "name": "regular",
+  "version": "1.0.0",
+  "description": "正则",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhangzhenguo3352/regular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhangzhenguo3352/regular/issues"
+  },
+  "homepage": "https://github.com/Zhangzhenguo3352/regular#readme"
+}
